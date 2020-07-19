@@ -1,0 +1,198 @@
+sl.no,Date and Time,vehicle_number
+,date,
+1,Sat May 23 11:14:01 2020,‘DL9CAQ5785
+,date,
+2,Sat May 23 11:15:49 2020,MH1IZDE1433
+,date,  
+3,Sat May 23 11:20:44 2020,MH1IZDE1433
+,date,       
+4,Sat May 23 11:21:23 2020,MH1IZDE1433
+,date,       
+5,Sat May 23 11:23:55 2020,MH1IZDE1433
+,date,       
+6,Sat May 23 11:26:41 2020,MH1IZDE1433
+,date,       
+7,Sat May 23 22:29:31 2020,AP09 BN 7886
+,date,       
+8,Sun May 24 15:19:09 2020,AP09 BN 7886
+,date,       
+9,Wed May 27 18:06:58 2020,AP09 BN 7886
+,date,       
+10,Fri May 29 14:07:35 2020,AP09 BN 7886
+,date,       
+11,Fri May 29 14:10:55 2020,AP09 BN 7886
+,date,       
+12,Fri May 29 14:11:18 2020,AP09 BN 7886
+,date,       
+13,Fri May 29 16:55:00 2020,AP09 BN 7886
+,date,       
+14,Sat May 30 13:55:24 2020,MH1IZDE1433
+,date,       
+15,Sat May 30 13:56:11 2020,MH1IZDE1433
+,date,       
+16,Sat May 30 13:56:41 2020,
+,date,       
+17,Sat May 30 13:56:54 2020,
+,date,       
+18,Sat May 30 13:57:16 2020,
+,date,       
+19,Sat May 30 13:58:06 2020,MH1IZDE1433
+,date,       
+20,Sat May 30 13:59:23 2020,AP09 BN 7886
+,date,       
+21,Sat May 30 14:03:06 2020,
+,date,       
+22,Sat May 30 14:05:27 2020,MH1IZDE1433
+,date,       
+23,Sat May 30 14:05:39 2020,MH 20 EE 7602
+,date,       
+24,Sat May 30 14:06:47 2020,MH1IZDE1433
+,date,       
+25,Sat May 30 14:10:28 2020,MH 20EJ0364
+,date,       
+26,Sat May 30 14:11:25 2020,AP09 BN 7886
+,date,       
+27,Sat May 30 14:12:04 2020,MH 20EJ0364
+,date,       
+28,Sat May 30 14:12:44 2020,
+,date,       
+29,Sat May 30 14:34:54 2020,MH1IZDE1433
+,date,       
+30,Sat May 30 14:35:08 2020,MH 20EJ0364
+,date,       
+31,Sat May 30 14:35:21 2020,MH 20 EE 7602
+,date,       
+32,Sat May 30 14:42:10 2020,MH1IZDE1433
+,date,       
+33,Sat May 30 14:43:05 2020,MH 20 EE 7602
+,date,       
+34,Sat May 30 14:43:55 2020,MH1IZDE1433
+,date,       
+35,Sat May 30 14:44:16 2020,MH 20 EE 7602
+,date,       
+36,Sat May 30 14:46:09 2020,MH1IZDE1433
+,date,       
+37,Sat May 30 14:47:15 2020,MH1IZDE1433
+,date,       
+38,Sat May 30 14:48:21 2020,MH1IZDE1433
+,date,       
+39,Sat May 30 14:49:11 2020,MH1IZDE1433
+,date,       
+40,Sat May 30 14:49:43 2020,MH1IZDE1433
+,date,       
+41,Sat May 30 14:50:23 2020,
+,date,       
+42,Sat May 30 14:50:52 2020,MH1IZDE1433
+,date,       
+43,Sat May 30 14:50:54 2020,MH 20EJ0364
+,date,       
+44,Sat May 30 14:52:01 2020,MH1IZDE1433
+,date,       
+45,Sat May 30 14:52:47 2020,MH1IZDE1433
+,date,       
+46,Sat May 30 14:53:53 2020,MH1IZDE1433
+,date,       
+47,Sat May 30 14:54:06 2020,MH 20EJ0364
+,date,       
+48,Sat May 30 14:54:16 2020,MH 20 EE 7602
+,date,       
+49,Sat May 30 14:54:57 2020,
+,date,       
+50,Sat May 30 14:55:08 2020,
+,date,       
+51,Sat May 30 14:56:13 2020,MH1IZDE1433
+,date,       
+52,Sat May 30 14:56:23 2020,MH 20EJ0364
+,date,       
+53,Sat May 30 14:57:06 2020,MH 20 EE 7602
+,date,       
+54,Sat May 30 14:57:19 2020,
+,date,       
+55,Sat May 30 14:57:32 2020,
+,date,       
+56,Sat May 30 14:57:43 2020,
+,date,       
+57,Sat May 30 14:57:55 2020,HR 3106798
+,date,       
+58,Sat May 30 16:04:01 2020,MH1IZDE1433
+,date,       
+59,Sat May 30 16:04:16 2020,MH 20EJ0364
+,date,       
+60,Sat May 30 16:05:29 2020,MH 20 EE 7602
+,date,       
+61,Sat May 30 16:06:14 2020,MH1IZDE1433
+,date,       
+62,Sat May 30 16:08:12 2020,
+,date,       
+63,Sat May 30 16:08:33 2020,UP 16 AU 856g
+,date,       
+64,Sat May 30 16:11:27 2020,MH1IZDE1433
+,date,       
+65,Sat May 30 16:11:54 2020,MH 20EJ0364
+,date,       
+66,Sat May 30 16:12:23 2020,MH 20 EE 7602
+,date,       
+67,Sat May 30 16:12:41 2020,UP 15 CE 0600
+,date,       
+68,Sat May 30 16:13:07 2020,UP 15 CE 0600
+,date,       
+69,Sat May 30 16:13:14 2020,AP09 BN 7886
+,date,       
+70,Sat May 30 18:10:35 2020,MH1IZDE1433
+,date,       
+71,Sat May 30 18:11:09 2020,MH 20EJ0364
+,date,       
+72,Sat May 30 18:11:27 2020,MH 20 EE 7602
+,date,       
+,date,       
+73,Sat Jun 13 13:15:29 2020,AP09 BN 7886
+,date,       
+74,Sat Jun 13 13:15:55 2020,MH 20 EE 7602
+,date,       
+75,Sat Jun 13 13:23:48 2020,AP09 BN 7886
+,date,       
+76,Sat Jun 13 13:25:44 2020,AP09 BN 7886
+,date,       
+77,Sat Jun 13 13:26:04 2020,AP09 BN 7886
+,date,       
+78,Sat Jun 13 13:26:18 2020,MH 20EJ0364
+,date,       
+0,Sun Jun 14 12:28:07 2020,AP09 BN 7886
+,date,       
+0,Sun Jun 14 22:27:01 2020,AP09 BN 7886
+,date,       
+0,Sun Jun 14 22:27:56 2020,MH 20 EE 7602
+,date,       
+0,Sun Jun 14 23:22:51 2020,AP09 BN 7886
+,date,       
+0,Sun Jun 14 23:23:54 2020,MH 20 EE 7602
+,date,       
+0,Sun Jun 14 23:31:56 2020,AP09 BN 7886
+,date,       
+0,Sun Jun 14 23:32:58 2020,AP09 BN 7886
+,date,       
+0,Sun Jun 14 23:33:24 2020,AP09 BN 7886
+,date,       
+0,Sun Jun 14 23:35:13 2020,AP09 BN 7886
+,date,       
+0,Sun Jun 14 23:37:25 2020,AP09 BN 7886
+,date,       
+0,Sun Jun 14 23:38:25 2020,DL 13.cA 3444
+,date,       
+0,Sun Jun 14 23:40:38 2020,AP09 BN 7886
+,date,       
+0,Sun Jun 14 23:40:48 2020,AP09 BN 7886
+,date,       
+0,Sun Jun 14 23:41:00 2020,AP09 BN 7886
+,date,       
+0,Sun Jun 14 23:42:55 2020,DL 13.cA 3444
+,date,       
+0,Mon Jun 15 11:50:02 2020,AP09 BN 7886
+,date,       
+0,Mon Jun 15 11:55:40 2020,AP09 BN 7886
+,date,       
+0,Mon Jun 15 11:56:09 2020,UP 15 CE 0600
+,date,       
+0,Mon Jun 15 11:58:40 2020,AP09 BN 7886
+,date,       
+0,Mon Jun 15 11:59:11 2020,UP 15 CE 0600

@@ -1,0 +1,4 @@
+Python>=2.7
+Opencv>=3.4
+Tesseract>=4
+Pandas>=0.2
